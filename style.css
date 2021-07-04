@@ -48,10 +48,10 @@ body {
 .banner .part-right img {
     width: 100%;
 }
-
-.banner .part-right,.banner-2 .part-right {
+.banner .part-right, .banner-2 .part-right {
     width: 40%;
     margin-left: 5%;
+    margin-top: 35px;
 }
 
 .drama-section{
