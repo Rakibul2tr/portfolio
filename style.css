@@ -1,8 +1,13 @@
+
 body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
 }
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+</style>
 .top-section{
     padding: 0 0 60px 0px;
 }
@@ -32,7 +37,7 @@ body {
     font-size: 23px;
 }
 .content {
-    margin-top: 100px;
+    margin-top: 45px;
 }
 .content a {
     padding: 10px 40px;
