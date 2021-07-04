@@ -1,0 +1,71 @@
+body{
+    box-sizing: border-box;
+  
+    
+}
+.top-section{
+    padding: 0 0 60px 0px;
+}
+.banner {
+    background-image: url(./image/top-banner.png);
+    background-repeat: no-repeat;
+    display: inline-flex;
+}
+.banner .part-left ,.banner-2 .part-left {
+    width: 40%;
+    margin-left: 5%;
+}
+.big-title span {
+    color: #FFA500;
+}
+.big-title h1,.banner-2 .big-title h1  {
+    font-size: 50px;
+    font-weight: 600;
+}
+.content p,.banner-2 .content p {
+    font-size: 19px;
+    padding: 20px 0;
+    text-align: justify;
+}
+
+.content h3 ,.banner-2 .content h3 {
+    font-size: 23px;
+}
+.content {
+    margin-top: 100px;
+}
+.content a {
+    padding: 10px 40px;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: capitalize;
+    background: #d6796e;
+    color: #fff;
+}
+.content a:hover{
+    background: #FA6957;
+}
+.banner .part-right img {
+    width: 100%;
+}
+
+.banner .part-right,.banner-2 .part-right {
+    width: 40%;
+    margin-left: 5%;
+}
+
+.drama-section{
+   padding: 50px 0;
+}
+.banner-2{
+    background-image: url(./image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.banner-2 .part-left img {
+    width: 100%;
+}
+
+.banner-2 {
+    display: inline-flex;
+}
