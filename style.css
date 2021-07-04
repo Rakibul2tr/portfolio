@@ -119,3 +119,10 @@ section.expreance h1 {
     color: #FFAC00;
     font-size: 25px;
 }
+footer {
+    padding: 38px 0;
+}
+
+.copy-right p {
+    text-align: center;
+}
